@@ -19,7 +19,7 @@ void creer_fichier()
 		}
 	fclose(fichier);
 }
-
+					//je modifie pour la conduite
 void afficher_fichier()
 {
 	int entier;
